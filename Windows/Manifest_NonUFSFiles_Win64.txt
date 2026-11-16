@@ -1,0 +1,22 @@
+SpeedMaze/Binaries/Win64/D3D12/x64/D3D12Core.dll	2026-01-12T23:12:23.761Z
+SpeedMaze/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2026-01-12T23:12:23.818Z
+SpeedMaze/Binaries/Win64/DML/x64/DirectML.dll	2026-01-12T23:12:01.851Z
+SpeedMaze/Binaries/Win64/SpeedMaze-Win64-Shipping.exe	2026-11-16T19:00:42.511Z
+SpeedMaze/Binaries/Win64/tbb12.dll	2026-01-12T23:12:06.994Z
+SpeedMaze/Binaries/Win64/tbbmalloc.dll	2026-01-12T23:12:06.997Z
+Engine/Extras/Redist/en-us/vc_redist.x64.exe	2026-01-12T23:06:49.693Z
+Engine/Extras/Redist/en-us/vc_redist.arm64.exe	2026-01-12T23:06:49.600Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2026-01-12T23:04:14.716Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2026-01-12T23:04:30.861Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2026-01-12T23:04:30.921Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2026-01-12T23:04:30.948Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2026-01-12T23:04:43.570Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2026-01-12T23:04:43.571Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2026-01-12T23:04:43.902Z
+Engine/Content/Renderer/TessellationTable.bin	2026-01-12T23:05:59.536Z
+Engine/Content/Slate/Cursor/invisible.cur	2026-01-12T23:05:59.984Z
+Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll	2026-01-12T23:09:23.023Z
+Engine/Config/StagedBuild_SpeedMaze.ini	2026-11-16T19:17:05.088Z
+SpeedMaze/Content/Movies/Blue Lobster jumpscare 4k meme.mp4	2026-02-02T04:20:46.920Z
+SpeedMaze/Content/Movies/desktop.ini	2026-11-15T23:57:00.301Z
+SpeedMaze.exe	2026-11-16T19:17:05.082Z
